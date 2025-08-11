@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: _site/book
+
+book:
+  title: "Leading on Data"
+  author: "The Council of State Governments Justice Center"
+  date: "2025/08/01"
+  chapters:
+    - index.qmd
+    - best-practices.qmd
+    - lesson01/lesson01.qmd
+    - lesson02/lesson02.qmd
+    - lesson03/lesson03.qmd       
+    - lesson04/lesson04.qmd       
+
+format:
+  html:
+    number-sections: false
+    embed-resources: false
+    toc: true
+    toc-depth: 3
+    toc-title: On this page
+    theme:
+      - zephyr
+      - custom_theme.scss
+    mainfont: "Public Sans, sans-serif"
+    monofont: "monospace"
+    linkcolor: "#277CB4"
+    link-external-icon: true
+    link-external-newwindow: true
+    code-overflow: wrap
+    include-in-header: 
+      - file: google-font.html    

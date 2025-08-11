@@ -1,0 +1,75 @@
+## About the Course
+
+This site contains information and materials about Leading on Data, a course in the Advancing Data in Corrections Academy program.
+
+Visit <https://academy.advancingdataincorrections.org> to enroll in the course.
+
+## Description
+
+A key responsibility of corrections research and planning teams is anticipating the resource needs of the agency. Some of the most important resources are staffing and bed space, and the essential factor in determining these needs is the population in custody or on community supervision. To anticipate the size of correctional populations, corrections agencies and sentencing commissions create population forecasts, which incorporate historical trends to project growth or decline in future populations.
+
+There are numerous methods for forecasting correctional populations that range from simple to complex. This course will focus on one of the simpler methods: stock and flow. A stock and flow model describes a system in which the **stock** (in this case, prison or supervision population), is determined by the **flow** of people in (admissions) and out (releases) of a population. While this terminology comes from systems dynamics, we prefer more human-centered language when discussing individuals. Therefore, instead of "stock," we'll use total incarcerated or supervised population to represent the number of people in prison or on community supervision at a given time. Instead of "flow," we'll refer specifically to prison admissions or supervision starts (people entering) and prison or supervision releases (people exiting). This approach tracks how the total incarcerated or supervised population changes over time based on the movement of people entering and leaving the correctional system.
+
+Stock and flow models are easy to understand and explain to decision-makers since they don’t use complex statistical methods. They also allow research teams to analyze how policy changes affect populations when assumptions about number of admissions and length of stay are altered.
+
+This course will teach learners the basics of forecasting correctional populations and how to construct a stock and flow model from historical population data. The course will demonstrate how to prepare data and build a model using the R programming language. But for learners who are not proficient in R, the methods and concepts taught will be applicable to other tools.
+
+The course will also review more complex methods for forecasting and highlight different methodologies for correctional population forecasts used by state corrections agencies.
+
+## Intended Audience
+
+This course is for analysts and researchers who are interested in learning the basics of population forecasting for a correctional setting. Learners should have basic quantitative data experience and be comfortable cleaning and manipulating data. Demos will be taught using the R programming language, but knowledge of R is not a requirement for the course. Learners can complete examples using any tool they prefer.
+
+## Learning Objectives
+
+After completing this course, learners will be able to do the following:
+
+- Describe the purpose of population forecasts for correctional populations.
+- Build a stock and flow model to make a population forecast by
+  - Determining what data is required;
+  - Preparing the data for modeling; and
+  - Calculating population projections and adjusting sub-population parameters.
+- Communicate the results of a population forecast in a compelling and easy-to-interpret manner for decision-makers.
+- Understand alternative models for population forecasts and decide which models are most appropriate for the requested analysis.
+
+## Structure
+
+The course is organized into lessons that are meant to be completed sequentially. Each lesson includes a video introduction to the topic or technique with an example or demo of the topic being implemented, as well as an opportunity to put into practice some or all of the material presented in the lesson through a practical exercise.
+
++------------------------------+-------------------------------------------------------------------------+
+| **Lesson**                   | **Lesson Objectives**                                                       
++--------------------------+---+-------------------------------------------------------------------------+
+| 1: Why Forecast              | - Define a correctional population forecast.
+|Correctional Populations?     | - Discuss how forecasts should and shouldn’t be used.
+|                              | - Understand the role of forecasts for correctional impact statements.
++--------------------------+---+------------+------------------------------------------------------------+
+| 2: Stock and Flow Models     | - Describe the principles of a stock and flow model for population forecasting.
+|                              | - Recognize what data is needed to create a stock and flow model.
+|                              | - Explain how model parameters and assumptions can be altered to account for policy proposals and sub-populations.
++--------------------------+---+-------------------------------------------------------------------------+
+| 3: Prepare Data for Forecast | - Clean population data needed to create a stock and flow model.
+|                              | - Calculate trends in admissions and length of stay to establish a baseline projection.
+|                              | - Include data disaggregated by sub-populations of interest.
++--------------------------+---+-------------------------------------------------------------------------+
+| 4: Create Forecast           | - Generate population and sub-population projections.
+|                              | - Adjust parameters and assumptions to test policy proposals and scenarios.
++--------------------------+---+-------------------------------------------------------------------------+
+| 5: Communicate Results       | - Create plots and tables to show results of forecast model.
+|                              | - Discuss how to effectively communicate results to decision-makers and non-technical audiences.
+|                              | - Combine population forecast with costs to estimate financial impact.
++--------------------------+---+-------------------------------------------------------------------------+
+| 6: Other Forecasting Methods | - Recognize advanced methods for forecasting such as time series models and micro-simulation.
+|                              | - Distinguish between deterministic and probabilistic models.
+|                              | - Examine real-world applications of population forecasts from a variety of states.
++--------------------------+---+-------------------------------------------------------------------------+
+
+## Resources
+- William J. Sabol and Miranda L. Baumann, Forecasting and Criminal Justice Policy and Practice. Am J Crim Just 47, 1140–1165 (2022). <https://pmc.ncbi.nlm.nih.gov/articles/PMC9758473/>
+- Bruce D. McDonald III, J. Winn Decker, and Matthew James Hunt, Chapter 17: Forecasting for Prisons and Jails, *The Palgrave Handbook of Government Budget Forecasting*. <https://www.researchgate.net/publication/342011165_Forecasting_Prison_Populations>
+- Elizabeth Pelletier, Bryce Peterson, and Ryan King, The Prison Population Forecaster Methodology and Appendix, <https://apps.urban.org/features/prison-population-forecaster/prison_population_forecaster-methodology.pdf>
+
+## Estimated Time to Complete
+4 hours
+
+## Keywords
+Population forecast, R

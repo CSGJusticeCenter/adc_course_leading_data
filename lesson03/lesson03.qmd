@@ -1,0 +1,202 @@
+---
+title: "Lesson 3: How to Ask Smart Questions and Interpret Results"
+---
+
+## Introduction
+
+Good leaders want to lead with data. But one of the key problems they confront is understanding the data their team gives them. As a corrections leader, you may be well-versed in data and analytics because of previous roles or education, because your department has used data effectively, or because you had good mentors. Or you may be incredibly good at the “business” of corrections but have less experience using data.
+
+The truth is that *it doesn’t matter how much training you’ve had with data*. In some ways, with each new analysis or question, everyone always starts at the beginning because the result of that data analysis will be new information. Leaders who recognize they need to ask questions and dig into analysis results will be best positioned to take relevant, meaningful actions based on the data they receive. 
+
+This lesson is designed to give you some tips and tricks for asking your data team the right questions, interpreting what they give you, and making good decisions—or at least the best decision you can make given the information you have.
+
+::: {.callout-note icon=false}
+
+## Example
+
+Over the past few years, a volunteer group has held a weekly staff and resident trauma workshop in one of your facilities, Forest Prison. This program has a reputation for improving staff morale, but there was a recent incident where a volunteer was found taking contraband into the facility for resident participants of the program. Investigators think this was going on for a few months. The warden is concerned—is staff morale really better, and what if this program is driving contraband? You brainstorm with your team what overall factors you want to look at: staff morale and incidents in the facility. You already conduct a monthly staff survey at every prison that asks whether staff would recommend working there. This generates a staff recommendation rate, which is the percentage of your staff who answer “yes.” You also have counts on critical incidents. What is your data request?
+:::
+
+## Step 1: Ask the right question
+
+A well-crafted research or analysis question is the foundation of effective data-driven decision-making. A good question should be clear, specific, and actionable to guide the data collection and analysis process to produce meaningful insights. By asking more effective questions, you’ll get clearer and quicker responses from your research and analysis team.
+
+#### Key characteristics of a strong data question
+
+- Clarity: Avoid vague or broad questions. Clearly define what you seek to understand.
+
+- Specificity: Focus on a particular issue, facility, or trend within the corrections system. When possible, define what period you need the data to cover.
+
+- Relevance: Ensure the question aligns with your operational goals and system improvement needs.
+
+- Measurability: The question should correspond with identifiable data that your agency collects.
+
+- Comparability: A good question is not “is this a good number?” but “is this a good number compared to what?” Possible comparisons include time (compare a current number to the previous year’s number) or other units (compare the unit at one facility to another unit or facility). 
+
+- Rates: To be accurate and meaningful, comparisons typically need to use rates. Knowing the raw number of something is less informative than understanding how that number relates to the whole. For example, knowing that 8 people housed in a unit are gang affiliated is partially helpful. It’s more helpful to know that 2 percent or 75 percent of the people housed in a unit are gang affiliated. Strong data questions ask about “per person” or “per unit.”
+
+- Statistical significance: When a relationship between two variables exists (like program participation and returns to prison), questions should ask analysts to specify whether a difference is statistically significant. Statistical significance means the result you’re seeing is probably real and not just due to random chance.
+
+Based on these criteria, here’s a good way to formulate a question based on the scenario in the example above:
+
+**Can I see the average staff recommendation rate (i.e., the percentage of staff who would recommend working at Forest Prison) and the number of contraband critical incidents at Forest Prison for this year and last year?**
+
+This checks a lot of the boxes above—it’s clear, specific, and relevant.
+
+Additionally, when requesting this information from your research and analysis team, it’s helpful to identify whether this is a one-time question based on a specific circumstance—or whether you may need updated analyses regularly—and how quickly you need the answer. If you think you may need updated answers to this question, articulating a cadence will help you get the information more easily next time, as it may impact the analytic infrastructure staff have in place to respond. If they know you’ll need this information regularly, and they have some time to work on the request, they could create an automated report or prioritize it for dashboard development. If you need it tomorrow, they may approach putting together the analysis differently. 
+
+:::{.callout-note icon=false}
+
+## Example (cont.)
+
+This is what you receive from your data team:
+
+
+|                                 | Last Year | This Year | Total |
+|---------------------------------|-----------|-----------|-------|
+| Staff Rec Rate                  | 64%       | 60%       | N/A   |
+| Critical Incidents (Contraband) | 234       | 257       | 490   |
+
+<br>
+We think you should send this table back. Why?
+
+- The total for contraband isn’t correct—it’s off by one. Is this because the math is wrong or the analyst rounded?
+
+- The table doesn’t include a title describing what’s in it—specifically what prison it’s about. You could assume that it shows the correct facility, but you want to make sure you’re getting what you asked for!
+
+:::
+
+## Step 2: See if you understand the results
+
+Once you’ve defined your request for your research and analysis team, you’ll likely receive a response from them that includes tables, charts, or graphs. Understanding the parts of a table or chart helps you check that everything you need is included.
+
+#### Elements of effective tables
+
+Tables present data in a structured format. Key components of an effective table include the following:
+
+- **Title**: States clearly what data is in the table, over what period
+- **Column Heads**: Describe the data in each column
+- **Row Labels**: Describe the data in each row
+- **Values**: The data points that need to be interpreted
+- **Totals and Averages**: Summary information that comes from the data points 
+
+*Remember to check totals and averages! It’s easy for inaccurate information to slip through the cracks.*
+
+If anything is unclear in the table, it should be clarified with labels, footnotes, or other types of explanations.
+
+#### Types of charts
+
+Different types of charts serve different purposes. Selecting the right chart for the data being presented is crucial for accurate interpretation, and you should check to make sure the chart type aligns with the answer you need for your question. Here are some common chart types and when you should expect to see them:
+
+- **Bar Chart**: Best for comparing different categories or groups (e.g., number of people with different security threat group affiliations in a facility). Bar charts may include stacking or clustering to show more complex data.
+- **Line Chart**: Ideal for showing trends over time (e.g., monthly admissions over the past year)
+- **Pie Chart**: Used for displaying proportions or percentages within a whole at a particular moment in time (e.g., counts of people by security level in a facility)
+- **Heatmap**: Useful for visualizing density across multiple categories (e.g., parole revocations by region and risk level)
+- **Scatterplot**: Useful for looking at a possible relationship between two things (sometimes used with a trendline)
+- **Venn Diagram**: Useful for understanding how groups of items or populations relate to one another and overlap (or don’t)
+
+#### Elements of effective charts
+
+Every chart contains fundamental elements that help clarify the data:
+
+- **Title**: Provides context for the data being displayed. It should be clear and descriptive and include what period the chart covers.
+- **Axis (X and Y) for line and bar charts**: Defines what the chart measures and the scale
+  - **X-Axis (Horizontal Axis)**: Typically represents a standard category, such as time, or different groups being compared. For example, in a chart showing prison population trends, the X-axis might represent months or years.
+  - **Y-Axis (Vertical Axis)**: Changes based on the X-axis. In the prison population example, the Y-axis would indicate the number of incarcerated individuals. The scale and units should be carefully examined to ensure accurate interpretation.
+- **Key/Legend**: Explains colors, symbols, or patterns used in the chart
+- **Labels**: Identify data points and make the chart easier to interpret
+- **Trendlines (used most often for line charts)**: Show overall patterns or trajectories in the data, especially over time 
+- **Annotation**: Highlights or calls out specific points of importance in a chart
+- **Source**: Important for understanding where the data comes from 
+- **Footnotes**: Include extra details about assumptions regarding the data or limitations of the analysis
+
+#### Common chart and table pitfalls
+
+Misleading or poorly designed charts and tables can distort the message of the data. Be aware of these common pitfalls:
+
+- **Using a misleading scale**: Charts that exaggerate differences by altering the scale can misrepresent trends. For example, a chart may use a zoomed-in scale to make it look like there’s a lot of month-to-month variation, whereas with a broader scale, it would look steady. 
+- **Not being clear about data type**: Data may be presented without specifying how the element is being measured. For example, is the population displayed an average daily population (ADP) or an end-of-month count?
+- **Using the wrong type of chart, or not the best type of chart, for the question you have**: Different charts are used to answer different types of questions. For example, a pie chart won’t answer questions about trends over time. Sometimes data can be accurately displayed using different chart types, but one type will be clearer to the reader.
+- **Mistaking seasonality for sustained trends**: Corrections data may show seasonal fluctuations that do not indicate long-term change. If you only have one year of data displayed, what might seem like an uptick could be a regular seasonal trend that would be revealed when looking at more years of data.
+- **Ignoring outliers or anomalies**: A single unusual data point may skew perceptions unless it’s investigated further.
+
+::: {.callout-note icon=false}
+## Example (cont.)
+
+You discuss the issue with your executive team and the warden. Someone mentions that she was under the impression that staff morale had been falling this year. Someone else says that a few other wardens have been mentioning upticks in contraband. You ask your data team to look at morale and contraband across the whole system. After all, you need a good comparison. They email you the following graphs.
+ 
+![](img/chart1.png){width="85%"}
+
+A couple of questions:
+
+1.	Does this bar chart give you a clear understanding of how the recommendation rate has changed over time?
+
+2.	Are you able to see trends? There are other ways of organizing this data so you can see what you want to see more clearly. 
+
+![](img/chart2.png){width="85%"}
+
+The above line graph presents the same information that’s in the bar chart, but it displays changes over time better. A trendline and data labels have been added. It looks like morale has been falling in Forest Prison, but it’s been falling across the system, so this is unlikely because of issues with the volunteer program. In addition, it does seem true that employee morale is, in general, better at Forest Prison. 
+
+:::
+
+## Step 3: Ask questions and avoid common mistakes before you act
+
+#### Questions to ask when reviewing data
+
+If a report does not explicitly address certain details, it’s essential to ask clarifying questions:
+
+- **Confirm inclusivity**: Does the data include all relevant populations (e.g., all facilities, all categories of releases)?
+- **Determine the period**: What timeframe does this data cover, and is it relevant for the decision being made?
+- **Check for typos and inconsistencies**: Do the numbers add up correctly?
+- **Investigate anomalies**: If one data point looks significantly different, what happened?
+- **Seek simplicity**: Can the data be presented in a clearer or more useful way? Sometimes a complex table or graph looks appealing but obscures the most relevant information.
+
+::: {.callout-note icon=false}
+
+## Example (cont.)
+ 
+![](img/chart3.png){width="85%"}
+
+The data team produces the same type of chart for contraband. Here, it looks like there is a spike in contraband in the system, but not as much at Forest Prison. However, this is a perfect example of data that should be interpreted as rates. The true question is not how much contraband has increased, but how much contraband per person has increased—the rate of contraband. Adjusting for population gives you a much clearer picture:
+
+![](img/chart4.png){width="85%"}
+
+Contraband rates at Forest Prison are lower, but they also largely follow trends in the system. There was a spike in December—both in Forest and in the whole DOC—that is worth investigating. Again, because the spike occurred across the system, it’s unlikely that it has to do with the volunteer program.
+
+:::
+
+#### Common data reading mistakes
+
+- **Misinterpreting relationships**: Assuming a correlation between two variables equals causation, when this might not be the case 
+- **Ignoring context**: Analyzing data without considering the broader circumstances or limitations of the data collection process 
+- **Cherry-picking**: Selecting only data points that support a desired conclusion while ignoring contradictory evidence 
+- **Poor data cleaning**: Inadequately addressing issues like missing values, outliers, or inconsistent formatting before analysis 
+- **Bias in sampling**: Drawing conclusions from a sample that is not representative of the overall population 
+- **Overlooking outliers**: Failing to identify and properly handle data points that are extremely different from the rest 
+- **Not understanding the data source**: Not considering the limitations or potential biases of the data collection method 
+- **Jumping to conclusions**: Making hasty interpretations based on limited data analysis without considering alternative explanations
+
+#### How to avoid these mistakes
+
+- **Clearly define the research question**: Ensure you understand the purpose of the analysis and what information you’re trying to extract. 
+- **Understand the limitations of the dataset**: Your research team should inform you about gaps in data collection, missing values, or other challenges that may make the data analyses unreliable.
+- **Interpret results with caution**: Avoid making strong claims based on limited data and consider alternative explanations. 
+- **Ask questions**: Seek advice from your research director or data analysts when needed to ensure proper interpretation. 
+
+::: {.callout-note icon=false}
+
+## Example (cont.) 
+
+Your investigation so far has suggested the following:
+
+- There is a system-wide uptick in contraband, which is worth investigating.
+- There is a system-wide decline in morale, which is also worth investigating. 
+- The incident with the volunteer program at Forest Prison does not seem to be the driver of either of these trends, since the program is in just one facility and the trends are system wide. 
+
+You tell your warden that you see no issues with him continuing the program, especially if new screening protocols are introduced for volunteers. 
+
+:::
+
+## Conclusion
+
+Unfortunately, data doesn’t speak for itself. It requires context, clarity, and careful questioning. By approaching data with curiosity and discipline—asking the right questions, checking for common pitfalls, and working collaboratively with your data team—you’ll be better equipped to separate signal from noise and turn complex information into meaningful action.

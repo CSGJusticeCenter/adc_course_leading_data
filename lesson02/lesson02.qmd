@@ -1,0 +1,112 @@
+---
+title: "Lesson 2: How Leaders Use Data"
+---
+
+## Introduction
+
+**What gets measured, gets managed.** In corrections, nearly everything is measured—movements, medication distribution, visitations, and more. As such, correctional agencies generate an enormous amount of data, all of which must be logged and tracked.
+
+But collecting data isn't the same as using it. In many cases, data is recorded without being actively analyzed—and that makes sense. If corrections leaders tried to scrutinize every piece of information in their systems, they’d never get anything else done. Some data simply needs to exist for reference when needed.
+
+But, when data is used **intentionally**, it becomes a powerful tool for driving public safety and positive change. We recommend looking at your system’s past key performance indicators (KPIs) and creating new ones that are in line with your goals for the department. 
+
+::: {.callout-tip}
+
+## Good KPIs tell you...
+
+1. If the system is producing the outcomes it's supposed to acheive
+2. If the new initiatives you've requested are being properly implemented
+3. If the things you want to change are, in fact, changing
+
+:::
+
+Below, we outline four steps for generating and using KPIs to successfully manage your department.
+
+## Step 1: Choose what to measure
+
+You have tons of data and a research team to help analyze it (see Lesson 4). The key question is: **What matters most?** What do you want to improve? Focus on the areas that will have the biggest impact.
+
+::: {.callout-note icon=false}
+
+## Example: Choosing a KPI
+
+Let’s say you want to improve access to education in your system. Your case management system keeps track of program enrollment and graduations. First, you must decide what to measure. Access to higher education resources through local universities? College completion? Or GED completion? It might be worth a (quick!) look at the evidence about what indicator might matter most for success after prison. And what you decide to measure is always going to be specific to your system and what you offer for educational programming. 
+
+:::
+
+## Step 2: Define how to measure it
+
+Bring in **operational staff and your data team** to figure out the best way to track progress. Is data about this KPI already being collected? If so, what is being actively measured right now? Is it the right approach? If not, what’s the best way to start? Setting the right KPIs involves trial and error. Have your data team **test sample KPIs** using last year’s data to see if they truly reflect what you want to know. Make sure leadership, managers, and frontline staff feel **involved and empowered**—KPIs should **drive real change**, not just sit on a dashboard.
+
+## Step 3: Put your KPI to work
+
+Start tracking your KPI—internally at first. Ideally, use an internal dashboard or a regularly generated report to see if the system **can move the metric**. If it’s not working, refine it. If it’s too easy, set a more ambitious goal. Once you’re confident in its impact, consider **publicly sharing and tracking** it to drive transparency and accountability. 
+
+## Step 4: Scale, but with focus
+
+A system that lacks focus rarely ends up moving the needle. Corrections is a 24/7, 365-day operation with constant change, and sometimes almost everyday crises. Even though you’ll have to shift your attention to other pressing issues, keep your top three KPIs in mind and watch them. Have your staff pick their top three KPIs for their focus areas and track those. Improving the culture of performance management will help everyone do a better job, and keeping your goals specific will help you make the bigger changes you want to make. 
+
+::: {.callout-note icon=false}
+
+## Example: Refining a KPI
+
+You decide to measure two things: enrollment and graduation in GED programs. Your KPI could be:
+
+1. Increase the **number** of people in your custody in GED classes. And possibly
+2. Increase the **percentage** of people in your custody in GED classes. 
+
+The first one will help you get started and provide valuable operational data (i.e., do we need more classrooms, more chairs, more materials) as GED programming increases.
+
+The second one will help you measure your initiative—increasing access to education. If a KPI on the percentage of people in GED class enrollment or graduations shows positive progress, you’ll know that access is increasing. However, it will require you to think through additional nuances. Are there some people who aren’t eligible for these programs? Should they be counted in the denominator when calculating the percentage? And is there an easy way for your team to figure that out? 
+
+Also, remember that systems get sidetracked by trying to find the “perfect” indicator. Don’t make that mistake!
+
+:::
+
+Good KPIs follow the “SMART” principle of goal setting:
+
+- **S**pecific
+- **M**easurable
+- **A**chievable
+- **R**elevant
+- **T**ime-bound
+
+Going back to the example in the call-out boxes about GED completions, we see that the KPI still needs a few additions:
+
+(1)	 Specific number(s) you’re starting with (how many people currently enroll/graduate in GED classes, as well as how many people are eligible)
+(2)	Time-boundedness (over what amount of time are you going to measure this?)
+(3)	A specific goal value or number
+
+You might end up with:
+
+**Over the course of 12 months, the DOC will increase the number of people currently enrolled in GED programs from 500 to 750.**
+
+Or: 
+
+**Over the course of 12 months, the DOC will increase GED graduations from 40 (last fiscal year) to 60.**
+
+Or:
+
+**Over the course of 12 months, the DOC will increase the percentage of GED enrollments in the eligible population by 5 percentage points (last year, 25 percent of the eligible population were enrolled; this year, 30 percent of the eligible population will be enrolled).**
+
+## Real-world KPIs
+
+CSG Justice Center staff reviewed the KPIs of all 50 state DOCs. We’ve included some real-world examples in the chart below and some KPIs that focus on new initiatives or areas of concern for some departments. In the past few years, states have typically focused on staffing, recidivism, and operational safety.
+
+| Subject Area       | KPI                                                                                                                                     | Source                                             |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **Staffing**       | 1. The Correctional Office staffing level will be maintained at 85 percent or greater.<br>2. Security supervisor staffing level will be maintained at 85 percent or greater.<br>3. The annual CO turnover rate will be maintained at 15 percent or less.<br>4. Job satisfaction will be 70 percent or greater. | [ADOC Strategic Plan 2019-2022](pdf/ADOC%20Strategic%20Plan%202019.2022-public.pdf)                      |
+| **Recidivism**     | Decrease recidivism by 3 percent—adult recidivism from 40 percent to 37 percent.                                                        | [SD DOC Joint Committee on Appropriations 2024](pdf/262154.pdf)      |
+| **Recidivism**     | Decrease the percentage of people on parole who receive a new felony conviction and sentence to the CDOC by 5 percent by June 30, 2027. | [Colorado FY24-25 Performance Plan](pdf/DOC_Performance%20Plan_FY24-25.pdf)                  |
+| **Operational Efficiency** | In FY24, leverage technology to reduce manual data collection burden on staff by 5 percent. Increase time savings by 10 percent by FY25. | [IDOC Strategic Plan 2025-2028](pdf/Strategic_plan_FY25-28.pdf)                     |
+| **Security and Safety**    | Percent of validated safety issues addressed by the Safety Office (defined more specifically in the strategic plan).            | [Utah DOC Strategic Plan](pdf/Strategic-Plan-24_v20.pdf)                            |
+
+---
+
+| Subject Area        | KPI                                                                                                               |
+|---------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Recidivism**      | Decrease recidivism of people released between the ages of 18 and 30 by X percent over 4 years.                   |
+| **Operational Efficiency** | Decrease the time taken to repair showers from X days to X days over one year.                             |
+| **Recidivism**      | Increase the time out of cell by X percent for people in minimum or medium security units over one year.          |
+| **Security and Safety**     | Increase the percentage of people receiving visits from family members by X percent over the course of one year. |
+| **Rehabilitation**  | Increase access to educational, cognitive, or peer support programming by X percent over one year.               |

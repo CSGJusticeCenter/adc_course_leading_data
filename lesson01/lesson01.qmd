@@ -3,9 +3,7 @@ title: "Lesson 1: Introduction"
 toc: false
 ---
 
-In the field of corrections, effective leadership relies on making informed decisions in a fast-paced and often unpredictable environment. Data-driven decision-making is not about collecting more data—it’s about using the right data effectively to guide policy, improve operations, and drive better outcomes for staff, incarcerated individuals, and the public. 
-
-This course is designed to help corrections leaders at all levels develop the skills and mindset needed to harness data for strategic decision-making. Whether you are well-versed in data analysis or new to integrating data into your leadership approach, this course will provide practical tools and insights to enhance your ability to interpret, question, and apply data in meaningful ways. 
+In this lesson, Rob Jeffreys, Director of the Nebraska Department of Correctional Services introduces the Leading on Data course. This course was created by the CSG Justice Center team with input from the Correctional Leaders Association and designed especially for Department of Corrections executive leadership teams. In this course, you’ll find short, practical lessons to either help you get started, or refine your approach, to working with data as a leader.
 
 ## Why This Matters 
 
